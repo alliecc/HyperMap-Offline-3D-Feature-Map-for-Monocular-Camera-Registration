@@ -1,6 +1,8 @@
 [Code and paper coming soon]
 
 # HyperMap:Offline 3D Feature Map for Monocular Camera Registration
+
+Ming-Fang Chang, 
 See our video here: <a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be">link</a>
 
 
