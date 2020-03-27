@@ -1,7 +1,7 @@
 [Code and paper coming soon]
 
 # HyperMap:Offline 3D Feature Map for Monocular Camera Registration
-<a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be">Video</a>
+See our video here: <a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be">link</a>
 
 <img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  width="600" class="center">
 
