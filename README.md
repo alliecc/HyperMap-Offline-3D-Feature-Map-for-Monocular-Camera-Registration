@@ -4,7 +4,7 @@
 
 Ming-Fang Chang, Joshua Mangelson, Michael Kaess, Simon Lucey
 
-See our video here: <a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be">link</a>
+See our video here: <a href="https://www.youtube.com/watch?v=CQsmS8RDsCE&feature=youtu.be">link</a>
 
 <img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  width="700" class="center">
 
