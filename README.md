@@ -3,7 +3,9 @@
 # HyperMap:Offline 3D Feature Map for Monocular Camera Registration
 See our video here: <a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be">link</a>
 
-<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  width="600" class="center">
+
+<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  width="700" class="center">
+
 
 # Motivation
 
@@ -11,6 +13,8 @@ Accurate localization is essential for autonomous operationin many problem domai
 
 # System Structure
 
-<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/network.png"  width="600" class="center">
+
+<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/network.png"  width="700" class="center">
+
 
 We first perform offline 3D sparse convolution to extract and compress the voxelwise hypercolumn features for the whole map. Then at run-time, we project and decode the compressed map features to the rough initial camera pose to form a virtual feature image. A CNN is then used to predict the relative pose between the camera image and the virtual feature image. In addition, we propose a novel differentiable occlusion handlinglayer, especially designed for large points clouds, to remove occluded points  in  projection.  Our experiments  on synthetic and real datasets show that, by feature compression and shifting the feature computationload to offline process, we reduced map size by 27−53% and accelerate online computation by 44−76% while maintaining comparable or better performance
