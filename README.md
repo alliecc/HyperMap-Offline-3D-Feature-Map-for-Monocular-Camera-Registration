@@ -7,8 +7,7 @@
 (https://www.youtube.com/watch?v=igaNMA-GAnE)
 
 <a href="https://www.youtube.com/watch?v=igaNMA-GAnE&feature=youtu.be" target="_blank">
-<img src="http://img.youtube.com/vi/gaNMA-GAnE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<img src="http://img.youtube.com/vi/gaNMA-GAnE/0.jpg" alt="test" width="240" height="180" border="10" /></a>
 
 
 Accurate localization is essential for autonomous operationin many problem domains. This is most often performed by comparingLiDAR scans collected in real-time to a HD point cloud based map. Whilethis enables centimeter-level accuracy, it depends on an expensive LiDARsensor at run time. Recently, efforts have been underway to reduce costby using cheaper cameras to perform 2D-3D localization. In contrast to previous work that learns relative pose by comparing projected depthand camera images, we propose HyperMap, a paradigm shift from onlinedepth feature extraction to offline map feature computation for the 2D-3Dcamera registration task through end-to-end training.
