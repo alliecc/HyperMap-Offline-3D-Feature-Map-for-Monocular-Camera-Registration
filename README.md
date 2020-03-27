@@ -2,9 +2,8 @@
 
 # HyperMap:Offline 3D Feature Map for Monocular Camera Registration
 
-![alt text]()
 
-<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  height="42">
+<img src="https://github.com/alliecc/HyperMap-Offline-3D-Feature-Map-for-Monocular-Camera-Registration/blob/master/front_v4.png"  height="200">
 
 Accurate localization is essential for autonomous operationin many problem domains. This is most often performed by comparingLiDAR scans collected in real-time to a HD point cloud based map. Whilethis enables centimeter-level accuracy, it depends on an expensive LiDARsensor at run time. Recently, efforts have been underway to reduce costby using cheaper cameras to perform 2D-3D localization. In contrast to previous work that learns relative pose by comparing projected depthand camera images, we propose HyperMap, a paradigm shift from onlinedepth feature extraction to offline map feature computation for the 2D-3Dcamera registration task through end-to-end training.
 
