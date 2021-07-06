@@ -1,4 +1,4 @@
-[Code and paper coming soon]
+[update] ICRA 2021 paper link: https://www.cs.cmu.edu/~kaess/pub/Chang21icra.pdf
 
 # HyperMap:Offline 3D Feature Map for Monocular Camera Registration
 
